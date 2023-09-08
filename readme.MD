@@ -1,10 +1,10 @@
 # image processing helpers
 
-# Installation
+## Installation
 You need to install imagemagick with heic support.
 The simplest way was to use imei https://github.com/SoftCreatR/imei 
 
-# Usage:
+## Usage:
 **Rename images:** `python3 rename <path> <prefix>`
 Runs through the provided directory and changes the filename to the prefix + a number.
 
