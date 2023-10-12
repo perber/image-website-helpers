@@ -39,4 +39,4 @@ python3 rename.py $1 $2
 ./resize-images.sh $1 1000
 
 # get json for the galery
-python3 generate-json-for-blumenwagner-galery.py $1
+python3 generate-json-for-galery.py $1
